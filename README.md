@@ -31,7 +31,5 @@ Berikut adalah tata cara dalam menjalankan aplikasi kalkulator:
 ![tampilanUtama](/assets/images/tampilanUtama.png)
 
 
+#### Created By : Sanggul Rotua Pakpahan 21120122120018
 
-| Nama                          | NIM           |
-|-------------------------------|---------------|
-| Sanggul Rotua Pakpahan        | 21120122120018|
