@@ -30,7 +30,7 @@ Berikut adalah tata cara dalam menjalankan aplikasi kalkulator:
 
 ![tampilanUtama](/assets/images/tampilanUtama.png)
 
-### Anggota Kelompok
+
 
 | Nama                          | NIM           |
 |-------------------------------|---------------|
